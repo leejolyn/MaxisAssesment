@@ -1,0 +1,60 @@
+Airport_name,Flight,Departure_Time,Arrival_Time,Origin_Airport,Airline,Origin
+KUL,SV 786,11:10,18:30,MLE,Saudia,Male
+KUL,MH 1455,17:20,18:30,LGK,Malaysia Airlines,Langkawi
+KUL,MH 1397,17:50,18:55,KBR,Malaysia Airlines,Kota Bharu
+KUL,MH 2517,17:10,19:05,KCH,Malaysia Airlines,Kuching
+KUL,MH 1335,18:00,19:05,TGG,Malaysia Airlines,Kuala Terengganu
+KUL,AK 5197,16:35,19:20,SDK,AirAsia,Sandakan
+KUL,MH 2607,16:55,19:30,BKI,Malaysia Airlines,Kota Kinabalu
+KUL,SQ 126,18:45,19:45,SIN,Singapore Airlines,Singapore
+KUL,MH 6071,16:15,19:50,MNL,Malaysia Airlines,Manila
+KUL,MXD 349,16:50,20:00,CGK,Malindo Air,Jakarta
+KUL,AK 5645,17:55,20:00,MYY,AirAsia,Miri
+KUL,MH 171,13:05,20:05,KTM,Malaysia Airlines,Kathmandu
+KUL,MH 2711,17:35,20:10,BKI,Malaysia Airlines,Kota Kinabalu
+KUL,MH 2645,17:50,20:15,BKI,Malaysia Airlines,Kota Kinabalu
+KUL,MH 1155,19:20,20:20,PEN,Malaysia Airlines,Penang
+KUL,MH 173,13:00,21:05,DEL,Malaysia Airlines,Delhi
+KUL,MH 722,18:25,21:30,CGK,Malaysia Airlines,Jakarta
+KUL,MH 767,19:35,22:30,SGN,Malaysia Airlines,Ho Chi Minh City
+KUL,MH 1165,21:25,22:30,PEN,Malaysia Airlines,Penang
+KUL,EK 449,17:10,0:05,AKL,Emirates,Auckland
+BKI,AK 5306,18:20,20:40,JHB,AirAsia,Johor Bharu
+BKI,AK 5138,19:30,22:00,KUL,AirAsia,Kuala Lumpur
+SZB,FY 1151,17:25,18:30,KBR,Firefly,Kota Bharu
+SZB,MH 5317,17:25,18:30,KBR,Malaysia Airlines / Operated by Firefly 1151,Kota Bharu
+SZB,MXD 1267,17:35,18:40,KBR,Malindo Air,Kota Bharu
+SZB,MXD 1173,17:40,18:40,PEN,Malindo Air,Penang
+SZB,MXD 1805,17:45,18:50,TGG,Malindo Air,Kuala Terengganu
+SZB,MXD 1505,17:50,19:00,AOR,Malindo Air,Alor Setar
+SZB,FY 1439,18:20,19:20,PEN,Firefly,Penang
+SZB,MH 5409,18:20,19:20,PEN,Malaysia Airlines / Operated by Firefly 1439,Penang
+PEN,FY 1434,17:00,18:00,SZB,Firefly,Kuala Lumpur
+PEN,MH 5392,17:00,18:00,SZB,Malaysia Airlines / Operated by Firefly 1434,Kuala Lumpur
+KCH,TR 430,18:05,19:35,SIN,Scoot,Singapore
+KCH,SQ 8334,18:05,19:35,SIN,Singapore Airlines / Operated by Scoot 430,Singapore
+JFK,QR 3824,14:11,18:00,BQN,Qatar Airways / Operated by JetBlue Airways 838,Aguadilla
+JFK,B6 838,14:11,18:00,BQN,JetBlue Airways,Aguadilla
+JFK,B6 968,13:59,18:01,PUJ,JetBlue Airways,Punta Cana
+JFK,EK 6844,13:59,18:01,PUJ,Emirates / Operated by JetBlue Airways 968,Punta Cana
+JFK,QR 3892,9:20,18:02,LAX,Qatar Airways / Operated by JetBlue Airways 324,Los Angeles
+JFK,EY 8312,9:20,18:02,LAX,Etihad Airways / Operated by JetBlue Airways 324,Los Angeles
+JFK,SQ 1530,9:20,18:02,LAX,Singapore Airlines / Operated by JetBlue Airways 324,Los Angeles
+JFK,EK 6874,9:20,18:02,LAX,Emirates / Operated by JetBlue Airways 324,Los Angeles
+JFK,AA 9476,9:20,18:02,LAX,American Airlines / Operated by JetBlue Airways 324,Los Angeles
+JFK,B6 324,9:20,18:02,LAX,JetBlue Airways,Los Angeles
+JFK,HA 2310,9:20,18:02,LAX,Hawaiian Airlines / Operated by JetBlue Airways 324,Los Angeles
+JFK,AT 9537,9:20,18:02,LAX,Royal Air Maroc / Operated by JetBlue Airways 324,Los Angeles
+JFK,FI 7880,9:20,18:02,LAX,Icelandair / Operated by JetBlue Airways 324,Los Angeles
+JFK,B6 158,13:25,18:08,AUA,JetBlue Airways,Aruba
+JFK,QR 3883,13:25,18:08,AUA,Qatar Airways / Operated by JetBlue Airways 158,Aruba
+JFK,AF 2495,14:45,18:15,ORD,Air France / Operated by Endeavor Air on behalf of Delta Air Lines 4675,Chicago
+JFK,AF 10,15:45,18:15,CDG,Air France,Paris
+JFK,AZ 3715,15:45,18:15,CDG,Alitalia / Operated by Air France 10,Paris
+JFK,DL 4675,14:45,18:15,ORD,Delta Air Lines / Operated by Endeavor Air on behalf of Delta Air Lines,Chicago
+JFK,DL 9183,15:45,18:15,CDG,Delta Air Lines / Operated by Air France 10,Paris
+JFK,KL 2304,15:45,18:15,CDG,KLM / Operated by Air France 10,Paris
+JFK,RO 9531,15:45,18:15,CDG,TAROM / Operated by Air France 10,Paris
+JFK,VS 6760,15:45,18:15,CDG,Virgin Atlantic / Operated by Air France 10,Paris
+JFK,LA 6261,14:45,18:15,ORD,LATAM Airlines / Operated by Endeavor Air on behalf of Delta Air Lines 4675,Chicago
+JFK,UX 3308,14:45,18:15,ORD,Air Europa / Operated by Endeavor Air on behalf of Delta Air Lines 4675,Chicago
